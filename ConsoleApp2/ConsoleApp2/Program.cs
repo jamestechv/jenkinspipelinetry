@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! for github");
+            Console.WriteLine("Hello World! for github for pipeline");
         }
     }
 }
